@@ -12,10 +12,6 @@ This project was created to analyze the energy of my workout playlist by compari
 1. Make sure you have Python installed. You can download it from the official Python website: [python.org](https://www.python.org/downloads/).
 2. Install the necessary dependencies by running the following command:
 
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
 # Spotify Album Analysis
 
 ## Overview
